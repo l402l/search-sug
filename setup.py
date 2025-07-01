@@ -3,12 +3,12 @@ import setuptools
 setuptools.setup(
     name="search-suggestion",
     version="0.1.0",
-    author="Chris Oh",
-    author_email="chris@5tigerjelly.com",
-    description="Search query suggestion service",
+    author="Chentao Liu",
+    author_email="23s004007@stu.hit.edu.cn",
+    description="搜索sug项目",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/5tigerjelly/search-suggestion-python",
+    url="https://github.com/l402l/search-sug",
     package_dir={'': 'src'},
     packages=setuptools.find_packages('src'),
     classifiers=[

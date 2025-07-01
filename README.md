@@ -9,9 +9,9 @@
 Build a search suggestion system with millions of search terms with ultrafast query speed. Search Suggestion utilizes complex trie data structures in the background to manage large datasets without compromising speed.
 
 ## 🏗️ Install
-To install Search Suggestion, simply use pip:
+To install Search Suggestion, simply use pip (安装search-sug):
 ```Shell
-pip install search-suggestion
+pip install search-sug
 ```
 
 ## 🏁 Quick Start 
@@ -35,4 +35,4 @@ result = ss.search('c', max_suggestions=20)
 ```
 
 ## 💭 Feature Suggestion
-If you have any requests, please feel free to submit a [ticket](https://github.com/5tigerjelly/search-suggestion-python/issues/new). I will try to prioritize based on available time.
+If you have any requests, please feel free to submit a [ticket](https://github.com/l402l/search-sug/issues/new). I will try to prioritize based on available time.
